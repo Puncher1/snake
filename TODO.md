@@ -1,5 +1,6 @@
 # TODO
 
+* [ ] Clean up code (multiple files)
 * [x] High Score on Home Screen
 * [x] Last Score on Game Over Screen
 * [x] Exit Pause screen with ESC
